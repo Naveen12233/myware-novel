@@ -1,0 +1,30 @@
+MyWear: A Novel Smart Garment for Automatic Continuous Vital Monitoring
+
+
+Smart Healthcare, Internet-of-Medical-Things (IoMT), Smart Garment, Smart Garment Security and Privacy
+
+
+IEEE Transactions on Consumer Electronics,Issue Date:03.June.2021
+
+
+Predicting_Heart_Rate
+
+
+predicting_heart_rate
+
+
+uuid
+VLF
+VLF_PCT
+LF
+LF_PCT
+LF_NU
+HF
+HF_PCT
+HF_NU
+TP
+LF_HF
+HF_LF
+
+
+High stree level,Midium level stess,Low level stress
